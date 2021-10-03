@@ -1,0 +1,11 @@
+# part 2
+*     Unary Operators
+*     Bitwise Operators
+*     Boolean Operators
+*     Multiplicative Operators 
+*     Additive Operators 
+*     Relational Operators 
+*     Equality Operators 
+*     Conditional Operator 
+*     Assignment Operators 
+*     Comma Operator 
